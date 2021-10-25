@@ -1,4 +1,4 @@
-char phone_no[]="08164841324";
+char phone_no[]="xxxxxxxxxxxx";#phone number
 
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
